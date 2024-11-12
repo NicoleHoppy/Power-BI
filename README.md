@@ -35,4 +35,6 @@ I have table with 12 columns that contains the following informations:
 - rating- contains 
 - duration- contains 
 - listed_in - contains 
-- description - contains 
+- description - contains
+
+When we look into data we can see some issues that we will need to take care of. But we are not working on original datatset. Every modification will be made in Power BI. We do it that way because we do not want to destroy original dataset.
