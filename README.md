@@ -20,7 +20,7 @@ In this project I am using dataset provided by website kaggle.com (https://www.k
 
 Firstly I wanted to look into dataset. In order to do that I opened the Excel file and went to Data > Get & Transform Data > Get Data > From Text/CSV. Then I got the following:
 
-![alt text](Images\01_image.png "CSV opened in Excel")
+![CSV opened in Excel](Images\01_image.png)
 
 I have table with 12 columns that contains the following informations:
 
