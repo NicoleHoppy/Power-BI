@@ -38,3 +38,6 @@ I have table with 12 columns that contains the following informations:
 - description
 
 When we look into data we can see some issues that we will need to take care of. But we are not working on original datatset. Every modification will be made in Power BI. We do it that way because we do not want to destroy original dataset.
+
+Now I upload the Excel file into Power BI and intead clicking to load data, I chose to transform data. I want to make some modifications to the original data before starting working with data.
+
