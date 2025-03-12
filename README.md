@@ -41,3 +41,6 @@ When we look into data we can see some issues that we will need to take care of.
 
 Now I upload the Excel file into Power BI and intead clicking to load data, I chose to transform data. I want to make some modifications to the original data before starting working with data.
 
+![Excel opened in Power BI](Images/02_image.png)
+
+Looking into data we can see that the first row is not considered as header so we can click on Home > 
