@@ -1,6 +1,6 @@
 # Power-BI
 
-This repository will contain the Power BI project of Netflix dataset from kaggle.com
+This repository will contain the Power BI project of Netflix dataset from [kaggle.com](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 # Abstract
 
@@ -24,17 +24,23 @@ Firstly I wanted to look into dataset. In order to do that I opened the Excel fi
 
 I have table with 12 columns that contains the following informations:
 
-- show_id - contains 
-- type - contains 
-- title - contains 
-- director - contains 
-- cast - contains 
-- country - contains 
-- date_added - contains 
-- release_year- contains 
-- rating- contains 
-- duration- contains 
-- listed_in - contains 
-- description - contains
+- show_id
+- type 
+- title 
+- director
+- cast
+- country
+- date_added
+- release_year
+- rating
+- duration
+- listed_in
+- description
 
 When we look into data we can see some issues that we will need to take care of. But we are not working on original datatset. Every modification will be made in Power BI. We do it that way because we do not want to destroy original dataset.
+
+Now I upload the Excel file into Power BI and intead clicking to load data, I chose to transform data. I want to make some modifications to the original data before starting working with data.
+
+![Excel opened in Power BI](Images/02_image.png)
+
+Looking into data we can see that the first row is not considered as header so we can click on Home > 
