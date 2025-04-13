@@ -4,8 +4,7 @@ This repository will contain the Power BI project of HR dataset from the followi
 
 # Abstract
 
-In this project I am presenting HR Dashboard. 
+This Power BI project presents a basic dashboard analyzing employee data. This report includes key metrics such as total number of employees and gender distribution. Visualizations include bar charts and pie charts to provide clear overview of workforce structure and dmografics. The goal of the dashboard is to help HR and management gain quick insights into employee composition and support data-driven decision-making.
 
-Firstly I wanted to look into dataset. In order to do that I opened the Excel file and went to Data > Get & Transform Data > Get Data > From Text/CSV. Then I got the following:
-
-![CSV opened in Excel](Images/01_image.png)
+![First Page](images_HR/1_PowerBI.png)
+![Second Page](images_HR/2_PowerBI.png)
